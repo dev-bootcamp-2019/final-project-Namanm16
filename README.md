@@ -41,11 +41,6 @@ Now you will need to compile and migrate the smart contracts using truffle. Keep
 
 `truffle migrate`
 
-And then you can start the front end by installing the project's local packages and running the start script.
-
-`npm install`
-
-`npm start`
 
 Setting up MetaMask
 -------------------
