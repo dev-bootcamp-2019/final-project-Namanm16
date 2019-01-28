@@ -33,7 +33,9 @@ If you haven't already, you'll need to clone this repo in the location you would
 
 `git clone https://github.com/dev-bootcamp-2019/final-project-Namanm16.git`
 
-`cd final_project`
+`cd final-project-Namanm16`
+
+`cd consensys_final_project`
 
 Now you will need to compile and migrate the smart contracts using truffle. Keep in mind that it is required to have ganache-cli running in a separate console.
 
